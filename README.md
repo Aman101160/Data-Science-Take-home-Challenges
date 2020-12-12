@@ -1,1 +1,2 @@
 # Data-Science-Take-home-Challenges
+Ultimate Technologies Inc. is an American worldwide online transportation network company founded in 2010 by Jarvis Karolick. Since their founding, the company has impacted the taxi and logistics industry showcasing their significance. They are headquartered in San Francisco, California. The challenges completed are based from an actual Ultimate Inc. Data Science Challenge. The same goes for the Relax Inc. Data Science Challenge.
